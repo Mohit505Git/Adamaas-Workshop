@@ -180,3 +180,6 @@ board.exit()
 camera.release()
 cv2.destroyAllWindows()
 
+def jas(name)
+	print("Hello, " + name + ". Testing!")
+	
